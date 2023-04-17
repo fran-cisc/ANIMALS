@@ -1,0 +1,43 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="@*#nUMP9n?5Bwa(:f;jB" x="20" y="23"></block><block type="device_forever" id="MlUb?uqi3P.ocVJm*7;O" x="225" y="20"></block><block type="device_button_event" id="HXFA2TJN(fN~SXFS+-_Z" x="38" y="233"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="CoY1J6T,cpt!7j#4P^jH"><value name="TIMES"><shadow type="math_whole_number" id="7PbHdAQ1S+Dnqh)cX%!N"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="+WYUyl=M[-!LHu=BhUqY"><field name="LEDS">`
+        # # . . . 
+        . # . . # 
+        . # # # . 
+        . # # # . 
+        . # . # .
+        `</field><next><block type="device_pause" id="F:yZqw(X;/F5*eLr.VGn"><value name="pause"><shadow type="timePicker" id="shtl;4A^Rb;{][r/jjyV"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="GgVtR`[#]{oI.:D#:?!W"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_pause" id="g]Gh$t4MJve=#e=l}q*E"><value name="pause"><shadow type="timePicker" id="u3@+r$oFF%,4A_lSrc@H"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="}IoPS%:F^$t^1;~=O_kn"><field name="LEDS">`
+        # # . . . 
+        # # # . . 
+        . . # . . 
+        . . # # # 
+        . . . . #
+        `</field><next><block type="device_pause" id="{5q-?4DknkVy.w#2.)C9"><value name="pause"><shadow type="timePicker" id="OkxM~e#-lpDmX,|nd8TX"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block><block type="device_button_event" id="c5#61RF1Z~E9{U+J]!BO" x="336" y="232"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="controls_repeat_ext" id="+K_.U$7]zu+PLIJ4^!sz"><value name="TIMES"><shadow type="math_whole_number" id="8eHY(ScguzPS=upqK),n"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="1?37R3p)n42A:pI4h%I:"><field name="LEDS">`
+        . # # # . 
+        . # # # . 
+        . . # . . 
+        . # # # . 
+        . # . # .
+        `</field><next><block type="device_pause" id="01v4uv:$!?~oSN^TT:7l"><value name="pause"><shadow type="timePicker" id="vu2h5HWwDMA^U;jy/pZL"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="CpyaGT43)H16|QBgC(L["><field name="LEDS">`
+        . . # . . 
+        # # # # # 
+        . # # # # 
+        # # # # # 
+        . . # . #
+        `</field><next><block type="device_pause" id="#WZMc_zu=C^AkUhVF)~0"><value name="pause"><shadow type="timePicker" id="):s].w3.FXUt?DGHwjEH"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></statement></block></statement></block><block type="device_button_event" id="zv/1NQb0rH:;Z}B*6(b{" x="350" y="1083"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="controls_repeat_ext" id="y?#73Ii[=;p7s$8o;TDT"><value name="TIMES"><shadow type="math_whole_number" id="[%:r~J6IX1w]%k_UPHK)"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="[`.bFRJW5]0}LWQZ~Vti"><field name="LEDS">`
+        . . . . . 
+        # # . . . 
+        # # # # . 
+        . # # # . 
+        . # . # .
+        `</field><next><block type="device_pause" id="v)-Zn;4S@zoq1UjL],PF"><value name="pause"><shadow type="timePicker" id="xDrfX_{nO^*rVRA%e]{Y"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id=")Q%A7KQxBKoalV?c93H;"><field name="LEDS">`
+        . . # . . 
+        # # # # # 
+        # . # . # 
+        . # # # . 
+        . # . # .
+        `</field><next><block type="device_pause" id="Eo5p@YlO?SJq02t0M$J="><value name="pause"><shadow type="timePicker" id="K3A]{69+OFd7f?[^;*y~"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></statement></block></statement></block></xml>
